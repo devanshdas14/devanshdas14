@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devanshdas14[DEBAYAN DAS] 2nd year at Kalinga Institute of Industrial Technology
-- 👀 I’m interested in C,Python,Problem Solving[DS ALGO],Web Developement,BlockChain
+- 👀 I’m interested in C,Python,Problem Solving[DS ALGO],BlockChain
 - 🌱 I’m currently learning ML,NLP
 - 💞️ I’m looking to collaborate on ...
 
